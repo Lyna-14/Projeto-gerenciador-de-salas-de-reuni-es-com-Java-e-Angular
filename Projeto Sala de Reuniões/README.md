@@ -5,7 +5,7 @@
 O objetivo desse projeto é desenvolver uma API com Spring Boot para gerenciar salas de reuniões.
 
 ### TECNOLOGIAS
-* lOMBKO
+* lombok
 * H2 Database 
 * Spring Web e Spring Data JPA 
 
